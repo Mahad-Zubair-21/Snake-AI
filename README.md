@@ -1,5 +1,6 @@
 # Snake-AI
 This project features a Snake game where the snake learns to navigate and survive using reinforcement learning techniques, particularly the Q-Learning algorithm. QTrainer manages the training process, updating the snake's Q-values based on its experiences within the game.
+The game has been built using python language, pygame and tensorflow modules.
 
 #Key Features:
 Learning Algorithm: Q-Learning is employed to help the snake optimize its movements by learning from rewards and penalties.
